@@ -1,0 +1,26 @@
+2023-11-25 20:40:46,400 Start the programm.
+2023-11-25 20:40:48,482 Expected number greater than 1 for the upper limit.
+2023-11-25 20:40:50,114 Upper limit for the hidden number is 7.
+2023-11-25 20:40:52,212 Number of tries is 3.
+2023-11-25 20:40:52,213 The game was started.
+2023-11-25 20:40:52,213 Generated hidden number is 5.
+2023-11-25 20:40:53,868 Player's guess is 4.
+2023-11-25 20:40:53,868 Player have 2 more tries.
+2023-11-25 20:41:02,206 Player's guess is 6.
+2023-11-25 20:41:02,207 Player have 1 more tries.
+2023-11-25 20:41:05,961 Player's guess is 5.
+2023-11-25 20:41:05,961 Player won.
+2023-11-25 20:41:05,962 Game over.
+2023-11-25 20:41:05,962 End the programm.
+2023-11-25 20:41:46,690 Start the programm.
+2023-11-25 20:41:48,100 Upper limit for the hidden number is 10.
+2023-11-25 20:41:48,833 Expected a number equal or greater than 1 for the number of tries.
+2023-11-25 20:41:50,676 Number of tries is 5.
+2023-11-25 20:41:50,676 The game was started.
+2023-11-25 20:41:50,677 Generated hidden number is 3.
+2023-11-25 20:41:55,862 Player's guess is 5.
+2023-11-25 20:41:55,863 Player have 4 more tries.
+2023-11-25 20:41:59,868 Player's guess is 3.
+2023-11-25 20:41:59,869 Player won.
+2023-11-25 20:41:59,869 Game over.
+2023-11-25 20:41:59,870 End the programm.
